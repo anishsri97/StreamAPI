@@ -1,0 +1,47 @@
+
+c
+java:S3655U"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(¬À¦8Ñåş²2
+c
+java:S3655Z"FCall "ans.isPresent()" or "!ans.isEmpty()" before accessing the value.(ì¹­¦8Ñåş²2
+T
+java:S1854d"7Remove this useless assignment to local variable "str".(ƒª‡ô8Óåş²2
+T
+java:S1854\"7Remove this useless assignment to local variable "sum".(­÷¼ô8Óåş²2
+U
+java:S1854O"8Remove this useless assignment to local variable "list".(¦ôµƒ8Óåş²2
+a
+java:S1854F"DRemove this useless assignment to local variable "mapGroupByGender".(–åß8Óåş²2
+d
+java:S1854A"BRemove this useless assignment to local variable "employeeMapAge".(š¥Ûõûÿÿÿÿ8Óåş²2
+g
+java:S1854="ERemove this useless assignment to local variable "employeeMapbyCity".(ùš“‰øÿÿÿÿ8Óåş²2
+X	java:S125"<This block of commented-out lines of code should be removed.(áÍ8Ôåş²2
+X
+java:S1481="6Remove this unused "employeeMapbyCity" local variable.(ùš“‰øÿÿÿÿ8Õåş²2
+U
+java:S1481A"3Remove this unused "employeeMapAge" local variable.(š¥Ûõûÿÿÿÿ8Öåş²2
+R
+java:S1481F"5Remove this unused "mapGroupByGender" local variable.(–åß8Öåş²2
+G	java:S106K"+Replace this use of System.out by a logger.(öãéú8Öåş²2
+o
+java:S6204O"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¦ôµƒ8Öåş²2
+F
+java:S1481O")Remove this unused "list" local variable.(¦ôµƒ8×åş²2
+G	java:S106U"+Replace this use of System.out by a logger.(¬À¦8×åş²2
+G	java:S106Z"+Replace this use of System.out by a logger.(ì¹­¦8×åş²2
+E
+java:S1481\"(Remove this unused "sum" local variable.(­÷¼ô8×åş²2
+o
+java:S6204`"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ô˜êİ8×åş²2
+F	java:S106a"+Replace this use of System.out by a logger.(·ÿ8Øåş²2
+E
+java:S1481d"(Remove this unused "str" local variable.(ƒª‡ô8Øåş²2
+L
+java:S1197e"*Move the array designators [] to the type.(†Ş£Ôÿÿÿÿÿ8Øåş²2
+G	java:S106h"+Replace this use of System.out by a logger.(¶ñŒü8Ùåş²2
+G	java:S106q"+Replace this use of System.out by a logger.(¼ê¿ù8Ùåş²2
+]	java:S125k"<This block of commented-out lines of code should be removed.(»ÈÇÔøÿÿÿÿ8Ùåş²2
+]	java:S125|"<This block of commented-out lines of code should be removed.(¡ò†Ìÿÿÿÿÿ8Ùåş²2
+^	java:S125µ"<This block of commented-out lines of code should be removed.(Ê¶¦ˆÿÿÿÿÿ8Ùåş²2
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8Ùåş²2
